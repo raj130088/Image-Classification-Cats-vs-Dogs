@@ -40,9 +40,7 @@ This project was done as practice for image preprocessing, CNN model building, a
 * Clear improvement in loss & accuracy across epochs.
 * Example predictions show correct classification of cats and dogs.
 
-*(Training History Plot)*
 ![Training History](docs/training_plot.png)
-*(Add screenshot if you saved it)*
 
 ---
 
