@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# TensorFlow / Keras saved models
+saved_model/
+*.h5
+*.pb
+
+# Dataset & cache
+/data/
+/datasets/
+/root/.keras/
+/root/.cache/
+/root/tensorflow_datasets/
+
+# Colab specific
+.colab/
+
+# Logs
+*.log
+logs/
+events.out.tfevents*
+
+# OS specific
+.DS_Store
+Thumbs.db
